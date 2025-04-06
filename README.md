@@ -48,6 +48,20 @@ To run this notebook:
 1. Open [Google Colab](https://colab.research.google.com/)
 2. Upload the `.ipynb` file
 3. Run all cells to reproduce the workflow
+4. 
+## Submission Instructions
+1. The source code has been uploaded to this GitHub repository.
+2. A video demonstration (2-3 minutes) explaining the code and results has been recorded and submitted.
+3. This README file provides an overview and explanation of the assignment.
+
+## Video Demonstration
+[https://drive.google.com/file/d/1FoGdNx5uIk9BDinwgSCUtxnjuHy4VmkK/view?usp=drive_link]
+
+## Repository Link
+[https://github.com/Mounika-Bolla/Deep-Learning]
+
+---
+For any queries, please reach out via email or discussion forums.
 
 ## 🧰 Requirements (for local use)
 
@@ -56,17 +70,4 @@ If running locally, make sure to install the following packages:
 ```bash
 pip install tensorflow numpy matplotlib
 
-## Submission Instructions
-1. The source code has been uploaded to this GitHub repository.
-2. A video demonstration (2-3 minutes) explaining the code and results has been recorded and submitted.
-3. This README file provides an overview and explanation of the assignment.
-
-## Video Demonstration
-[https://drive.google.com/file/d/1lhx6OZ6z2vO4iQdZEmv9N75OaUZfLbwa/view?usp=drive_link]
-
-## Repository Link
-[https://github.com/Mounika-Bolla/Deep-Learning]
-
----
-For any queries, please reach out via email or discussion forums.
 
